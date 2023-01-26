@@ -36,7 +36,7 @@ selection_sort(list_of_nums)
 print(list_of_nums)
 ```
 ### ii)	Insertion Sort
-```
+```py
 #Program to sort the elements in the list using the Insertion Sort algorithm.
 #Developed by: Sanjay Ragavendar M K
 #RegisterNumber: 22009286
